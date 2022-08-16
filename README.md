@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:6495ED&height=250&text=!WELCOME&animation=twinkling&fontSize=70&fontColor=FFFFFF&fontAlign=75&fontAlignY=40&desc=Noey's%20Github%20Profile&descAlign=85)
 
-<h1>✨WELCOME to my Github!</h1>
+<h2>✨Hello World!</h2>
 
-
-<div align="center">
-            💪 Skills
-            <p></p>
+### 💪 Skills
+<div>
             <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>      
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
             <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -17,24 +15,22 @@
 </div>
 <p> </p>
 
-
-<div align="center">
-            🛠 Tools
-            <p></p>
+### 🛠 Tools
+<div>
             <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"/>
             <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>            
 </div>
 <p></p>
 
-<div align="center">
-            📚 Now I'm Studying...
-            <p></p>
+
+### 📚 Now I'm Studying...     
+<div>
             <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
             <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
 </div>
 <p></p>
 
-<div align="center">
-            💌 Connect
+### 💌 Connect
+<div>
 </div>            
